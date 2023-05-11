@@ -1,5 +1,16 @@
-1. Burger
-2. Pizza
-3. Eggs
-4. Chicken
-5. Crocodile Meat
+====================
+Favorite Foods
+====================
+    Burger
+    Pizza
+    Eggs
+    Chicken
+    Crocodile Meat
+====================
+Favorite Movies
+====================
+    Avatar
+    Avatar: Way Of Water
+    Midsommar
+    Hereditary
+    John Wick
